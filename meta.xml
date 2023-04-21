@@ -1,0 +1,22 @@
+<meta>
+    <!--SVG file-->
+    <script src="src/core/svg.lua" type="client" />
+    
+    <!--Client Side-->
+    <script src="src/core/main.lua" type="client" />
+    
+    <!--Handlers-->
+    <script src="src/core/listener.lua" type="client" />
+    
+    <!--Assets-->
+    <file src="assets/heart.png"/>
+    <file src="assets/shield.png"/>
+    <file src="assets/food.png"/>
+    <file src="assets/water.png"/>
+
+    <!--Utils-->
+    <script src="src/utils/responsive.lua" type="client"/>
+
+    
+    <min_mta_version client="1.5.8-9.20979"></min_mta_version>
+</meta>
